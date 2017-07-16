@@ -1,4 +1,4 @@
-# Fatoush
+# Fatoush Salad
 
 
 #### INGREDIENTS :
@@ -16,15 +16,21 @@
 ###### Salad :
 
 - pita breads, halved, toasted until golden brown, broken into bite-size pieces.
-- 1/4 cup extra-virgin olive oil.
-- Salt.
 - Tomatoes depending on how many people you have.
 - Cucumber depending on how many people you have.
-6 spring onions, thinly sliced.
+- 6 spring onions, thinly sliced.
 - 1 cup chopped parsley leaves.
 - 1 cup fresh mint leaves.
+- 1/4 cup extra-virgin olive oil.
+- Salt.
 
 
 #### PREPARATION
 
-Combine sumac with soaking liquid, 3 tablespoons lemon juice, 2 tablespoons, garlic, 2 teaspoons vinegar, and dried mint in a small bowl. Gradually add oil, whisking constantly, until well blended. Season with salt; add more lemon juice, pomegranate molasses, and vinegar to taste, if desired.
+###### For dressing:
+Combine sumac with water, 3 tablespoons lemon juice, garlic, 2 teaspoons vinegar, and dried mint in a small bowl. Gradually add oil, whisking constantly, until well blended. Season with salt; add more lemon juice, and vinegar, if desired.
+
+###### For salad:
+Fry the pita pieces with a bit of oil (olive and corn oil works). Season pita to taste with salt.
+
+Mix tomatoes and next 6 ingredients in a large bowl. Add the fried pita pieces and mix again. add half of the dressing then mix again. At last add all the dressing on top and serve it!!.
