@@ -5,6 +5,9 @@ You know what this is for.
 
 ## Mains
 
+## Salads
+[Fatoush](Fatoush.md)
+
 ## Sides
 
 ## Desserts
