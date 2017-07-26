@@ -15,7 +15,7 @@
 
 ###### Salad :
 
-- pita breads, halved, toasted until golden brown, broken into bite-size pieces.
+- Pita breads, halved, toasted until golden brown, broken into bite-size pieces.
 - Tomatoes depending on how many people you have.
 - Cucumber depending on how many people you have.
 - 6 spring onions, thinly sliced.
