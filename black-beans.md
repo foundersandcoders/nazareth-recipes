@@ -6,9 +6,9 @@
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-True-brightgreen.svg)
 
-+ **First cooked by:** @zooeymiller
++ **First cooked by:** [@zooeymiller](https://github.com/zooeyMiller/)
 + **Date:** Week 4 FACN2
-+ **Author of Recipe**: @zooeymiller
++ **Author of Recipe**: [@zooeymiller](https://github.com/zooeyMiller/)
 
 This recipe takes quite a long time, but the majority of it is just stirring the beans every now and then, so you can happily sit and code in the living room and have a timer reminding you to stir :computer: :plate_with_cutlery: :tada:
 
