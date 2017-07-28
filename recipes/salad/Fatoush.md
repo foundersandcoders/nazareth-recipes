@@ -2,7 +2,7 @@
 
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-70%25-orange.svg)
 ![Speed Badge](https://img.shields.io/badge/Speed-2hr-orange.svg)
-![Reception Badge](https://img.shields.io/badge/Reception-Very Positive-brightgreen.svg)
+![Reception Badge](https://img.shields.io/badge/Reception-Very%20Positive-brightgreen.svg)
 ![Cost Badge](https://img.shields.io/badge/Cost-Average-yellow.svg)
 ![Vegetarian Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan badge](https://img.shields.io/badge/Vegan-True-brightgreen.svg)
