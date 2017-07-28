@@ -10,7 +10,7 @@
 
 **Date:** Week 3 of FACN2
 
-**Author of Recipe:** @m4v15
+**Author of Recipe:** [@m4v15](https://www.github.com/m4v15)
 
 ### Ingredients
 - A load of courgettes (10ish small ones)
