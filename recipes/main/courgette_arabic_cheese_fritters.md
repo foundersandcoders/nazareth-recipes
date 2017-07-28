@@ -6,7 +6,7 @@
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-False-red.svg)
 
-**First Cooked by:** @m4v15 
+**First Cooked by:** [@m4v15](https://www.github.com/m4v15) 
 
 **Date:** Week 3 of FACN2
 
