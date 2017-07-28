@@ -3,7 +3,7 @@
 ![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
 ![Cost Badge](https://img.shields.io/badge/Cost-Cheap-green.svg)
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
-![Vegan Friendly Badge](https://img.shields.io/badge/Vegetarian-False-red.svg)
+![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-False-red.svg)
 
 # Ingredients
 - A load of courgettes (10ish small ones)
