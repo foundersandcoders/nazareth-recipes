@@ -1,3 +1,4 @@
+# Courgette Fritters 
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-70%25-orange.svg)
 ![Speed Badge](https://img.shields.io/badge/Speed-1hr-yellow.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
@@ -5,7 +6,13 @@
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-False-red.svg)
 
-# Ingredients
+**First Cooked by:** @m4v15 
+
+**Date:** Week 3 of FACN2
+
+**Author of Recipe:** @m4v15
+
+### Ingredients
 - A load of courgettes (10ish small ones)
 - 4 Cloves of garlic
 - 3 Onions
@@ -17,7 +24,7 @@
 - Chilli Powder
 - Cumin seeds, ground
 
-## Preparation
+### Preparation
 
 1. Grate or finely slice the courgettes, and place in a mixing bowl with some salt to draw out the water.
 2. Finely dice the onions and garlic, add to drained courgettes (squeeze them to get as much water out as possible).
