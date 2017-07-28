@@ -111,7 +111,7 @@ Make sure your PR has the following
   4. Assignees - add all the maintainers of `nazareth-recipes` to every PR:
     + [@sofer](https://github.com/sofer)
     + [@mattlub](https://github.com/mattlub)
-    + [@m4v16](https://github.com/m4v15)
+    + [@m4v15](https://github.com/m4v15)
     + [@karyum](https://github.com/karyum)
 
   5. Reviewers
