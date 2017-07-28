@@ -55,10 +55,10 @@ The subject should be one of the above, see directions below for status and colo
 #### Difficulty ![Difficulty Badge](https://img.shields.io/badge/Difficulty-70%25-orange.svg)
 - STATUS: A percentage. Format should be the percentage number followed by ```%25```
 - COLOUR: One of 5 colours, corresponding to the status as follows:
-  - 0-20% -```brightgreen```
-  - 0-40% -```green```
-  - 40-60% -```yellow```
-  - 60-80% -```orange```
+  - 0-19% -```brightgreen```
+  - 20-39% -```green```
+  - 40-59% -```yellow```
+  - 60-79% -```orange```
   - 80-100% -```red```
 
 #### Speed ![Speed Badge](https://img.shields.io/badge/Speed-1hr-yellow.svg)
