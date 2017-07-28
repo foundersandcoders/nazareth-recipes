@@ -1,4 +1,14 @@
 # Black beans with lime and coriander rice
+![Difficulty Badge](https://img.shields.io/badge/Difficulty-60%25-orange.svg)
+![Speed Badge](https://img.shields.io/badge/Speed-3hr-red.svg)
+![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
+![Cost Badge](https://img.shields.io/badge/Cost-Cheap-green.svg)
+![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
+![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-True-brightgreen.svg)
+
++ **First cooked by:** @zooeymiller
++ **Date:** Week 4 FACN2
++ **Author of Recipe**: @zooeymiller
 
 This recipe takes quite a long time, but the majority of it is just stirring the beans every now and then, so you can happily sit and code in the living room and have a timer reminding you to stir :computer: :plate_with_cutlery: :tada:
 
@@ -18,6 +28,7 @@ There are a few different components, just adjust your timings so they all finis
 + Juice of 5+ limes (depending on how limey you want it)
 
 ### Optional sides:
+------------------------------
 #### Fried peppers:
 + 4 yellow peppers
 + 4 red peppers
