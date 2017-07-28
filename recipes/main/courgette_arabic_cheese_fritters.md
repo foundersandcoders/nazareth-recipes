@@ -34,7 +34,5 @@
 6. Heat a fair amount of oil in a pan (2cm deep) to smoking point, add big spoonful of batter mix, fry until golden brown and flip (4-5 minutes on each side).
 7. Keep warm in oven whilst cooking all of the mix.
 
-
-
-
+![Picture of 2 happy diners](https://user-images.githubusercontent.com/23310908/28714486-4e2e9fea-739c-11e7-8e57-96e50a149ed7.jpg)
 
