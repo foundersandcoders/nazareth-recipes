@@ -1,13 +1,13 @@
 # Contribution guidelines
 
-+ [Before adding a recipe](#before-adding-a-recipe)
++ [Before adding or editing a recipe](#before-adding-or-editing-a-recipe)
   + [Labels](#labels)
 + [Recipe Structure](#recipe-structure)
   + [Badges](#badges)
 + [Pull requests](pull-requests)
 + [Instructions for maintainers](#instructions-for-maintainers)
 
-## Before adding/editing a recipe
+## Before adding or editing a recipe
 
  1. Search this repo's [issues](https://www.github.com/foundersandcoders/nazareth-recipes/issues) to see if an issue exists for the recipe.
  2. If the issue does not exist, create it.
@@ -69,11 +69,11 @@ The subject should be one of the above, see directions below for status and colo
 #### Speed ![Speed Badge](https://img.shields.io/badge/Speed-1hr-yellow.svg)
 - STATUS: A time, in hours: ```0.5hrs, 1hr, 1.5hrs```
 - COLOUR: One of 5 colours, corresponding to the status as follows:
-  - STATUS < 0.5 -```brightgreen```
-  - 0.5< STATUS <1 -```green```
-  - 1< STATUS <1.5 -```yellow```
-  - 1.5< STATUS <2 -```orange```
-  - 2< STATUS -```red```
+  - < 0.5hrs -```brightgreen```
+  - 0.5-0.9hrs -```green```
+  - 1-1.4hrs -```yellow```
+  - 1.5-1.9hrs -```orange```
+  - 2hrs+ -```red```
 
 #### Reception ![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
 - STATUS: A value: ```Very%20Negative```, ```Negative```, ```Ambivalent```, ```Positive```, ```Very%20Positive```
@@ -125,7 +125,7 @@ Make sure your PR has the following
     + if your PR _requires_ a review from a particular person / people _before_ it is ready to be merged, specify this within the body of your PR
 
 ## Instructions for maintainers
-Once a pull request has been reviewed by 3 people, one of whom being a maintainer, it can be merged.
+Once a pull request has been reviewed by 3 people **who ate the meal**, as well as or including a maintainer, it can be merged.
 # Thank you!
 
 P.S. please star this repo.
