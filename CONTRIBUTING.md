@@ -7,7 +7,7 @@
 + [Pull requests](pull-requests)
 + [Instructions for maintainers](#instructions-for-maintainers)
 
-## Before adding a recipe
+## Before adding/editing a recipe
 
  1. Search this repo's [issues](https://www.github.com/foundersandcoders/nazareth-recipes/issues) to see if an issue exists for the recipe.
  2. If the issue does not exist, create it.
@@ -26,28 +26,33 @@ Advice for labeling your recipes:
 ## Recipe Structure
 Use the following skeleton guide
 ```
-### Name of Dish Here
+# Name of Dish Here
 
 - Badges here
 
-**First Cooked by:** 
+**Head Chef:** 
 
-**Date:** 
+**Sous Chef:** 
+
+**Date Cooked:** 
 
 **Author of Recipe:** 
 
-##### Ingredients
+## Ingredients
 - Add all the ingredients here
 
-##### Preparation
+## Preparation
 
-1. Add step by step instructions here
+1. Add step by step instructions here, ideally including photos of the process and/or finished product
+2. etc
+
+Photos of meal participants enjoying the food should come after the recipe
 ```
-Add photo(s) below preparation steps if possible
-
 ### Badges
 
 All recipes should have the following badges: [Difficulty](#difficulty), [Speed](#speed), [Reception](#reception), [Cost](#cost), [Vegetarian](#vegetarian), [Vegan](#vegan)
+
+Feel free to add other any badges you deem appropriate!
 
 The badges can be contructed using the following url: ```https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOUR>.svg``` (credit: https://shields.io/)
 
