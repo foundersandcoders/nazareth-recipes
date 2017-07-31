@@ -24,7 +24,7 @@ Advice for labeling your recipes:
   - Add any other labels you feel might be appropriate.
 
 ## Recipe Structure
-Use the following skeleton guide
+You can use the following skeleton as a guide
 ```
 # Name of Dish Here
 
