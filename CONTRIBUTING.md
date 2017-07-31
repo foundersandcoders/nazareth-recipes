@@ -36,6 +36,8 @@ Use the following skeleton guide
 
 **Date Cooked:** 
 
+**Number of servings:** 
+
 **Author of Recipe:** 
 
 ## Ingredients
