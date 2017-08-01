@@ -11,7 +11,7 @@ You know what this is for.
 
 
 ## Salads
-[Fatoush](Fatoush.md)
+[Fatoush](./recipes/salad/Fatoush.md)
 
 ## Sides
 
