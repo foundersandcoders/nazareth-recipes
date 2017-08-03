@@ -1,7 +1,7 @@
 # Lubes' Vegetable Tagine
 
-![Difficulty Badge](https://img.shields.io/badge/Difficulty-60%25-orange.svg) 
-![Speed Badge](https://img.shields.io/badge/Speed-2hr-orange.svg)
+![Difficulty Badge](https://img.shields.io/badge/Difficulty-50%25-yellow.svg) 
+![Speed Badge](https://img.shields.io/badge/Speed-2hr-red.svg)
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-False-red.svg)
 ![Serves Badge](https://img.shields.io/badge/Serves-12-green.svg)
@@ -54,3 +54,5 @@
 7. Cook the cous cous, stir in some coriander and flaked almonds
 8. Mix the sauce in with the veg
 9. Serve the cous cous and tagine with an additional sprinkle of coriander and flaked almonds
+
+## Comments
