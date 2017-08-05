@@ -29,8 +29,8 @@
 - onions (2 large)
 - garlic (4-6 cloves)
 - tomatoes (6)
-- tomato paste
-- harissa paste
+- tomato paste (a few tablespoons)
+- harissa paste (a few teaspoons)
 - cumin
 - cinammon
 - honey
@@ -45,11 +45,12 @@
 
 ## Preparation
 
+#### The vegetables
 1. Chop the veg into roughly 2cm cubes
-2. Fry them up (in separate batches if necessary) in some oil and move into a large covered pan to cook through
+2. Fry them briefly (in separate batches if necessary) in some oil and move into a large covered pan to cook through
 3. Cook the onions and garlic in some oil, generously adding spices
-4. Add the tomatoes and tomato paste and harissa paste
-5. Heat for a while, adding more spices and harissa, if you like
+4. Add the tomatoes and some tomato paste and harissa paste
+5. Liberally add more spices, tomato paste and harissa paste, as you heat the sauce for a while
 6. Add the chickpeas, coriander, chopped dates and honey and leave on low heat
 7. Cook the cous cous, stir in some coriander and flaked almonds
 8. Mix the sauce in with the veg
