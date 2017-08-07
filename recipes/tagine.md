@@ -50,7 +50,7 @@
 2. Fry them briefly (in separate batches if necessary) in some oil and move into a large covered pan to cook through
 3. Cook the onions and garlic in some oil, generously adding spices
 4. Add the tomatoes and some tomato paste and harissa paste
-5. Liberally add more spices, tomato paste and harissa paste, as you heat the sauce for a while
+5. Liberally add more spices, tomato paste and harissa paste, and water to fill it out, as you heat the sauce for a while
 6. Add the chickpeas, coriander, chopped dates and honey and leave on low heat
 7. Cook the cous cous, stir in some coriander and flaked almonds
 8. Mix the sauce in with the veg
