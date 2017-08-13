@@ -3,8 +3,8 @@
 
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-10%25-brightgreen.svg)
 ![Speed Badge](https://img.shields.io/badge/Speed-10min-brightgreen.svg)
-![Reception Badge](https://img.shields.io/badge/Reception-Very Positive-brightgreen.svg)
-![Cost Badge](https://img.shields.io/badge/Cost-Very Cheap-brightgreen.svg)
+![Reception Badge](https://img.shields.io/badge/Reception-Very%20Positive-brightgreen.svg)
+![Cost Badge](https://img.shields.io/badge/Cost-Very%20Cheap-brightgreen.svg)
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-False-red.svg)
 
@@ -18,10 +18,10 @@
 
 ### Ingredients
 - 400 grams of biscuits.
-- 250 ml creme
+- 250 ml cream
 - 100 grams bitter chocolate bar
 #### Frosting
-- 125 ml creme
+- 125 ml cream
 - 100 grams bitter chocolate bar.
 
 ### Preparation
