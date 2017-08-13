@@ -1,4 +1,6 @@
 # Frozen Chocolate Cake
+(not frikin pudding)
+
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-10%25-brightgreen.svg)
 ![Speed Badge](https://img.shields.io/badge/Speed-10min-brightgreen.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Very Positive-brightgreen.svg)
