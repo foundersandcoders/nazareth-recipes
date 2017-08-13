@@ -27,12 +27,12 @@
 ### Preparation
 
 1. Smash the biscuits into really small crumbs.
-2. Take a bowl and add the chocolate (1 bar) with the creme (250 ml).
+2. Take a bowl and add the chocolate (1 bar) with the cream (250 ml).
 3. Heat them up above a pan of boiling water, keep mixing until you get smooth mixture.
 4. Add the biscuit crumbs to the smooth mixture and keep mixing until all the crumbs are covered with chocolate.
 5. Pour all the mixture into an english cake tray and then press firmly so it would stick to the bottom of the tray.
 6. Put the tray with the mixture into the freezer until the frosting is ready.
-7. Take a bowl and add the chocolate (1 bar) with the creme (125 ml).
+7. Take a bowl and add the chocolate (1 bar) with the cream (125 ml).
 8. Heat them up above a pan of boiling water, keep mixing until you get smooth mixture.
 9. Pour the frosting on the cake and spread it evenly.
 10. After that keep it in the fridge for atleast 2 hours before serving.  
