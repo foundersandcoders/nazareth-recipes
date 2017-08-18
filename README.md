@@ -9,6 +9,7 @@ You know what this is for.
 
 [Courgette Fritters](./recipes/main/courgette_arabic_cheese_fritters.md)
 
+[Vegetable Tagine](./recipes/tagine.md)
 
 ## Salads
 [Fatoush](./recipes/salad/Fatoush.md)
