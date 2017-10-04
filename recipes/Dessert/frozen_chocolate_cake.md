@@ -2,7 +2,7 @@
 (not frikin pudding)
 
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-10%25-brightgreen.svg)
-![Speed Badge](https://img.shields.io/badge/Speed-10min-brightgreen.svg)
+![Speed Badge](https://img.shields.io/badge/Speed-1hour-yellow.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Very%20Positive-brightgreen.svg)
 ![Cost Badge](https://img.shields.io/badge/Cost-Very%20Cheap-brightgreen.svg)
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
