@@ -2,7 +2,7 @@
 (not frikin pudding)
 
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-10%25-brightgreen.svg)
-![Speed Badge](https://img.shields.io/badge/Speed-1hour-yellow.svg)
+![Speed Badge](https://img.shields.io/badge/Speed-2hours-yellow.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Very%20Positive-brightgreen.svg)
 ![Cost Badge](https://img.shields.io/badge/Cost-Very%20Cheap-brightgreen.svg)
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
@@ -36,3 +36,5 @@
 8. Heat them up above a pan of boiling water, keep mixing until you get smooth mixture.
 9. Pour the frosting on the cake and spread it evenly.
 10. After that keep it in the fridge for atleast 2 hours before serving.  
+
+Note: If you are impatient and want to eat this cake as soon as possible ( cause it's so delicious ) and not wait for it to be frozen, you could pour the mixture into a cup and eat it like a cup cake.
