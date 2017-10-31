@@ -17,5 +17,6 @@ You know what this is for.
 ## Sides
 
 ## Desserts
+[Chocolate Cake](./recipes/Dessert/frozen_chocolate_cake.md)
 
 ## Other
