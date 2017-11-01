@@ -1,5 +1,5 @@
 # Black pepper tofu
-![Difficulty Badge](https://img.shields.io/badge/Difficulty-60%-orange.svg)
+![Difficulty Badge](https://img.shields.io/badge/Difficulty-60%25-orange.svg)
 ![Speed Badge](https://img.shields.io/badge/Speed-1.5hr-orange.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
 ![Cost Badge](https://img.shields.io/badge/Cost-Average-orange.svg)
