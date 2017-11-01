@@ -1,5 +1,5 @@
 # Black pepper tofu
-![Difficulty Badge](https://img.shields.io/badge/Difficulty-60%25-orange.svg)
+![Difficulty Badge](https://img.shields.io/badge/Difficulty-60%-orange.svg)
 ![Speed Badge](https://img.shields.io/badge/Speed-1.5hr-orange.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
 ![Cost Badge](https://img.shields.io/badge/Cost-Average-orange.svg)
@@ -10,14 +10,16 @@
 
 **Date:** Week 16 FACN2
 
-**Author of Recipe**: [@matthewdking](https://github.com/matthewdking/)
+**Author of Recipe**: [Yotam Ottolenghi](https://www.ottolenghi.co.uk/black-pepper-tofu-a-shop)
 
 This tasty tofu recipe is a hit with everyone and goes well with rice or noodles. Side dishes are a good idea such as some roasted red peppers or mushrooms.
+
+
 
 ## Ingredients
 
 ### For the beans
-+ tofu (four packs)
++ firm tofu (four packs)
 + cornflour
 + corn oil
 + 3 chillies
@@ -48,3 +50,8 @@ This tasty tofu recipe is a hit with everyone and goes well with rice or noodles
 + Once soft and shiney add the soy sauce, ground peppercorns and sugar, mix well and cook for 5 minutes
 + Add the tofu and warm through ensuring all the tofu is full coated
 + Sprinkle over the roughly chopped spring onions
+
+
+![black pepper tofu and rice](https://i.imgur.com/1zTcY0q.jpg)
+
+![black pepper tofu with pepper and mushroom sides](https://i.imgur.com/NqgPYlE.jpg)
