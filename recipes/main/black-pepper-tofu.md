@@ -22,7 +22,7 @@ This tasty tofu recipe is a hit with everyone and goes well with rice or noodles
 + firm tofu (four packs)
 + cornflour
 + corn oil
-+ 3 chillies
++ 3 chillies (remove the seeds)
 + 3cm ginger
 + 1 large white onion
 + 6 cloves of garlic
@@ -42,7 +42,7 @@ This tasty tofu recipe is a hit with everyone and goes well with rice or noodles
 + Set aside on some kitchen roll to soak up some oil
 
 ### For the sauce
-+ Finely chop the onion, garlic and ginger
++ Finely chop the onion, garlic, chilli and ginger
 + Fry in some butter and corn oil
 + Once soft and shiney add the soy sauce, ground peppercorns and sugar, mix well and cook for 5 minutes
 + Add the tofu and warm through ensuring all the tofu is full coated
