@@ -25,9 +25,9 @@ This tasty tofu recipe is a hit with everyone and goes well with rice or noodles
 + 3 chillies
 + 3cm ginger
 + 1 large white onion
-+ 1 bulb of garlic
-+ dark soy sauce
-+ sweet soy sauce
++ 6 cloves of garlic
++ 5 tablespoons dark soy sauce
++ 5 tablespoons sweet soy sauce
 + 3 tablespoons ground peppercorns
 + tablespoon caster sugar
 + small bunch of spring onions
@@ -41,15 +41,13 @@ This tasty tofu recipe is a hit with everyone and goes well with rice or noodles
 + Be careful not to fry too many in a pan at once as they can start to stew
 + Set aside on some kitchen roll to soak up some oil
 
-### Rice
-+ Start the rice cooking before you make the sauce to ensure everything is ready at the same time
-
 ### For the sauce
 + Finely chop the onion, garlic and ginger
 + Fry in some butter and corn oil
 + Once soft and shiney add the soy sauce, ground peppercorns and sugar, mix well and cook for 5 minutes
 + Add the tofu and warm through ensuring all the tofu is full coated
 + Sprinkle over the roughly chopped spring onions
++ Serve with rice or noodles
 
 
 ![black pepper tofu and rice](https://i.imgur.com/1zTcY0q.jpg)
