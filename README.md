@@ -2,7 +2,7 @@
 You know what this is for.
 
 ## Breakfast
-
+[Arabic Omellete](./recipes/breakfast/arabic_omelette.md)
 ## Mains
 
 [Black beans w/ Lime & Coriander rice (and sides)](./recipes/main/black-beans.md)
