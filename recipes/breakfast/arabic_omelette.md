@@ -7,11 +7,11 @@
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-False-red.svg)
 
-+ **First cooked by:**
+ **First cooked by:**
 [@Karyum](https://github.com/karyum)
 
-+ **Date:** Week 5 FACN2
-+ **Author of Recipe:**
+ **Date:** Week 5 FACN2
+ **Author of Recipe:**
 #MrsSaliba
 
 ### Ingredients
