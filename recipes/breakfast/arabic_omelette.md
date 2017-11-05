@@ -27,7 +27,7 @@
 2. Add everything into a small bowl and whisk it with a *fork*.
 3. Heat up a pan with a bit olive oil and wait for 1 min untill it heats up.
 4. Add all of the mix into the heated pan.
-5. From here it's self preference on how much you want the Omelette to be cooked, I would say flip it when gets golden-red.
+5. From here it's self preference on how much you want the Omelette to be cooked, I would say flip it when gets golden-brown.
 
 Tips:
 - The more you stir it the fluffier the Omelette is going to get.
