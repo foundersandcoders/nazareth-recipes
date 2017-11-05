@@ -20,7 +20,7 @@ This tasty tofu recipe goes well with rice or noodles. Side dishes are a good id
 
 ### For the beans
 + firm tofu (four packs)
-+ cornflour
++ corn flour
 + corn oil
 + 3 chillies (remove the seeds)
 + 3cm ginger
