@@ -1,9 +1,18 @@
-# nazareth-recipes
-You know what this is for.
+# :woman_cook::church: Nazareth Recipes 🥘 :man_cook:
 
-## Breakfast
+![Some happy diners enjoying a meal at the Nazareth Guesthouse](https://user-images.githubusercontent.com/23310908/32459347-440e652e-c327-11e7-87f5-0fb24f888b73.jpg)
 
-## Mains
+An open source, collaborative collection of the communal recipes cooked within the Founders & Coders community. The idea started from the high volume of demands for the recipes of meals cooked at the Nazareth Guesthouse (hence the name!) but has grown to become more than that - we want it to be a place where people from the entire communtiy can add, view, and most importantly follow any recipe they wish.
+
+If you wanna get straight to cooking the recipes, check out the contents below! 
+
+If you wanna add a recipe, please check out the [CONTRIBUTING file](./contributing.md) for detailed instructions!
+
+Contents
+---
+### Breakfast
+
+### Mains
 
 [Black Beans w/ Lime & Coriander Rice (and sides)](./recipes/main/black-beans.md)
 
@@ -13,12 +22,12 @@ You know what this is for.
 
 [Vegetable Tagine](./recipes/tagine.md)
 
-## Salads
+### Salads
 [Fatoush](./recipes/salad/Fatoush.md)
 
-## Sides
+### Sides
 
-## Desserts
+### Desserts
 [Chocolate Cake](./recipes/Dessert/frozen_chocolate_cake.md)
 
-## Other
+### Other
