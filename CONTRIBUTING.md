@@ -125,9 +125,12 @@ Make sure your PR has the following
     + add anyone other than the maintainers, who you think should be aware of the recipe  
     e.g. anyone else who ate the food, or has expressed an interest in knowing the recipe
     + if your PR _requires_ a review from a particular person / people _before_ it is ready to be merged, specify this within the body of your PR
+    + Only maintainers should merge the PR's - if they are slacking, please feel free to give them a nudge in the comments of the PR.
 
 ## Instructions for maintainers
-Once a pull request has been reviewed by 3 people **who ate the meal**, as well as or including a maintainer, it can be merged.
+Once a pull request has been reviewed by 3 people **who ate the meal**, as well as or including a maintainer, it can be merged. A PR should never be merged if a reviewer has requested changes and not yet re-reviewed it.
+
+If a PR is up for an unreasonable amount of time without progress, maintainers should consult the creator on whether or not it will be finished at some point, and if not, close it.
 # Thank you!
 
 P.S. please star this repo.
