@@ -12,7 +12,7 @@
 
 **Author of Recipe**: [Yotam Ottolenghi](https://www.ottolenghi.co.uk/black-pepper-tofu-a-shop)
 
-This tasty tofu recipe goes well with rice or noodles. Side dishes are a good idea such as some roasted red peppers or mushrooms.
+This tasty tofu recipe goes well with rice or noodles. Side dishes are a good idea, such as some roasted red peppers or mushrooms.
 
 
 
