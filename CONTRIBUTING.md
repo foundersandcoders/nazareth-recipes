@@ -1,10 +1,10 @@
 # Contribution guidelines
 
-Although life for Nazareth recipes began as a humble repo, designed to store the recipes of meals cooked at the Nazareth guesthouse, it is growing to become a place to store any communal recipe made by a member of Founders And Coders. We at Nazareth Recipes want to both embrace this bright new future, but also to remember and respect our past.
+Although life for Nazareth Recipes began as a humble repo, designed to store the recipes of meals cooked at the Nazareth Guesthouse, it is growing to become a place to store any communal recipe made by a member of Founders And Coders. We at Nazareth Recipes want to both embrace this bright new future, but also to remember and respect our past.
  
  Thus, although only recipes cooked within a Founders And Coders community environment (most likely the Nazareth Guesthouse) will be merged into the repo, we would :heart:love:heart: to have more recipes avaliable and to encourage wider participation in this project.
  
- So if you have a recipe that you think deserves to be on here, but you are unable to cook it at a communal event, please follow the exact same steps as below, but when making a pull request, the PR should have the `Pending cooking` label attached to it. Once it has been cooked and eaten by members of the community, those lucky diners can then review and merge!*
+ So if you have a recipe that you think deserves to be on here, but you are unable to cook it at a communal event, please follow the exact same steps as below, but when making a pull request, the PR should have the `Pending Cooking` label attached to it. Once it has been cooked and eaten by members of the community, those lucky diners can then review and merge!*
 
 + [Before adding or editing a recipe](#before-adding-or-editing-a-recipe)
   + [Labels](#labels)
@@ -140,7 +140,7 @@ Once a pull request has been reviewed by 3 people **who ate the meal**, as well 
 
 If a PR is up for an unreasonable amount of time without progress, maintainers should consult the creator on whether or not it will be finished at some point, and if not, close it.
 
-If a PR has the "Pending Cooking" label attached, it can be open indefinitely.
+If a PR has the `Pending Cooking` label attached, it can remain open indefinitely.
 # Thank you!
 
 P.S. please star this repo :sparkles:
