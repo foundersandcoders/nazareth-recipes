@@ -25,7 +25,7 @@
 
 1. Chop the parsley and the green/spring onions into small pieces.
 2. Add everything into a small bowl and whisk it with a *fork*.
-3. Heat up a pan with a bit olive oil and wait for 1 min untill it heats up.
+3. Heat up a pan with a bit olive oil and wait for 1 min until it heats up.
 4. Add all of the mix into the heated pan.
 5. From here it's self preference on how much you want the omelette to be cooked, I would say flip it when it gets golden-brown.
 
