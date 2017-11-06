@@ -2,7 +2,7 @@
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-60%25-orange.svg)
 ![Speed Badge](https://img.shields.io/badge/Speed-1.5hr-orange.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
-![Cost Badge](https://img.shields.io/badge/Cost-Average-orange.svg)
+![Cost Badge](https://img.shields.io/badge/Cost-Average-yellow.svg)
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-True-brightgreen.svg)
 
@@ -18,7 +18,6 @@ This tasty tofu recipe goes well with rice or noodles. Side dishes are a good id
 
 ## Ingredients
 
-### For the beans
 + firm tofu (four packs)
 + corn flour
 + corn oil
