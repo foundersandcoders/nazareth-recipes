@@ -5,7 +5,9 @@ You know what this is for.
 
 ## Mains
 
-[Black beans w/ Lime & Coriander rice (and sides)](./recipes/main/black-beans.md)
+[Black Beans w/ Lime & Coriander Rice (and sides)](./recipes/main/black-beans.md)
+
+[Black Pepper Tofu](./recipes/main/black-pepper-tofu.md)
 
 [Courgette Fritters](./recipes/main/courgette_arabic_cheese_fritters.md)
 
