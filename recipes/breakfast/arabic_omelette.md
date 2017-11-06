@@ -30,6 +30,6 @@
 5. From here it's self preference on how much you want the omelette to be cooked, I would say flip it when it gets golden-brown.
 
 Tips:
-- The more you stir it the fluffier the omelette is going to get.
+- The more you whisk it the fluffier the omelette is going to get.
 - These are the base ingredients you could always get creative and add new ingredients on top of the base.
 - Don't screw up the flip.
