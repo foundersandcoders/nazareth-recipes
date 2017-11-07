@@ -11,6 +11,7 @@ If you wanna add a recipe, please check out the [CONTRIBUTING file](./contributi
 Contents
 ---
 ### Breakfast
+[Arabic Omelette](./recipes/breakfast/arabic_omelette.md)
 
 ### Mains
 
