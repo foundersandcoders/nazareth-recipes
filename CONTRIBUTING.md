@@ -141,6 +141,9 @@ Once a pull request has been reviewed by 3 people **who ate the meal**, as well 
 If a PR is up for an unreasonable amount of time without progress, maintainers should consult the creator on whether or not it will be finished at some point, and if not, close it.
 
 If a PR has the `Pending Cooking` label attached, it can remain open indefinitely.
+
+Maintainers should not merge their own PR's unless under extenuating circumstances and after discussion with others.
+
 # Thank you!
 
 P.S. please star this repo :sparkles:
