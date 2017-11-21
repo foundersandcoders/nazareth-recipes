@@ -1,5 +1,11 @@
 # Contribution guidelines
 
+Although life for Nazareth Recipes began as a humble repo, designed to store the recipes of meals cooked at the Nazareth Guesthouse, it is growing to become a place to store any communal recipe made by a member of Founders And Coders. We at Nazareth Recipes want to both embrace this bright new future, but also to remember and respect our past.
+ 
+ Thus, although only recipes cooked within a Founders And Coders community environment (most likely the Nazareth Guesthouse) will be merged into the repo, we would :heart:love:heart: to have more recipes avaliable and to encourage wider participation in this project.
+ 
+ So if you have a recipe that you think deserves to be on here, but you are unable to cook it at a communal event, please follow the exact same steps as below, but when making a pull request, the PR should have the `Pending Cooking` label attached to it. Once it has been cooked and eaten by members of the community, those lucky diners can then review and merge!*
+
 + [Before adding or editing a recipe](#before-adding-or-editing-a-recipe)
   + [Labels](#labels)
 + [Recipe Structure](#recipe-structure)
@@ -126,11 +132,20 @@ Make sure your PR has the following
     e.g. anyone else who ate the food, or has expressed an interest in knowing the recipe
     + if your PR _requires_ a review from a particular person / people _before_ it is ready to be merged, specify this within the body of your PR
     + Only maintainers should merge the PR's - if they are slacking, please feel free to give them a nudge in the comments of the PR.
+   6. **If your recipe is yet to be cooked:** Please give the PR a `Pending Cooking` label
+  
 
 ## Instructions for maintainers
 Once a pull request has been reviewed by 3 people **who ate the meal**, as well as or including a maintainer, it can be merged. A PR should never be merged if a reviewer has requested changes and not yet re-reviewed it.
 
 If a PR is up for an unreasonable amount of time without progress, maintainers should consult the creator on whether or not it will be finished at some point, and if not, close it.
+
+If a PR has the `Pending Cooking` label attached, it can remain open indefinitely.
+
+Maintainers should not merge their own PR's unless under extenuating circumstances and after discussion with others.
+
 # Thank you!
 
-P.S. please star this repo.
+P.S. please star this repo :sparkles:
+
+###### * The reason for this seemingly ruthless rule is to ensure that a recipe is literally taste-tested before it is merged onto the repo - as per the Founders And Coders values, everything should be peer led and on a consensus basis, this rule helps to assure that for the recipes.
