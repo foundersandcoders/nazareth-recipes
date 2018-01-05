@@ -44,7 +44,7 @@ This tasty tofu recipe goes well with rice or noodles. Side dishes are a good id
 + Finely chop the onion, garlic, chilli and ginger
 + Fry in some butter and corn oil
 + Once soft and shiney add the soy sauce, ground peppercorns and sugar, mix well and cook for 5 minutes
-+ Add the tofu and warm through ensuring all the tofu is full coated
++ Add the tofu and warm through ensuring all the tofu is fully coated
 + Sprinkle over the roughly chopped spring onions
 + Serve with rice or noodles
 
