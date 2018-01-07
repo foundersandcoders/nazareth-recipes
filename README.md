@@ -15,6 +15,7 @@ You know what this is for.
 [Fatoush](./recipes/salad/Fatoush.md)
 
 ## Sides
+[Freaky Freekeh](./recipes/sides/freaky-freekeh.md)
 
 ## Desserts
 
