@@ -34,8 +34,8 @@
 1. Get the sweet potatoes on to boil. You don't want them completely cooked, this is just to start them off.
 1. Add the aubergine to the onions, and fry for about 10 minutes.
 1. When the aubergines are almost cooked add the red peppers.
-1. In a separate pan add some oil, and a couple of tablespoons of the paste. Heat it for a few minutes before adding a can or two coconut milk.
+1. In a separate pan add some oil, and a couple of tablespoons of the paste. Heat it for a few minutes before adding two cans of coconut milk.
 1. When the paste and coconut milk are completely combined, add the mixture to all of the veg in the big pan.
-1. Leave to simmer. Have a taste of the sauce. Now it is up to the chef to add more paste or coconut milk depending on how spicy you like it. :hot_pepper:
+1. Leave to simmer. Have a taste of the sauce. Now it is up to the chef to add more paste or coconut milk depending on how spicy you like it. :hot_pepper: If you prefer it more saucy add both paste and coconut milk.
 
 Serve with rice and sprinkle with some chopped coriander.
