@@ -25,7 +25,7 @@
 - flaked almonds, and/or other nuts of your choice
 
 ## Method
-- cover the freekeh with water a leave for a couple of minutes until it absorbs the water
+- cover the freekeh with water and leave for a couple of minutes until it absorbs the water
 - Heat some oil in a sauce pan, then add the grated onion, cardamom, nutmeg, salt, pepper and the stock, and leave for 2 minutes. **Suha's Special Tip:** You decide how much of each spice to use, but be generous with the cardamom ;) 
 - Add the freekeh, and cover with 3 mugs-worth of boiling water. Simmer gently, adding more water if necessary, tasting it regularly until it is ready. **Suha's Special Tip:** Be careful not to add too much water!
 - Fry or roast the flaked almonds, and serve them sprinkled on top of the freekeh.
