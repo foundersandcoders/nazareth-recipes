@@ -1,7 +1,7 @@
 # Stir-Fry Cabbage
 
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-29%25-green.svg)
-![Speed Badge](https://img.shields.io/badge/Speed-0.5hr-red.svg)
+![Speed Badge](https://img.shields.io/badge/Speed-0.5hr-green.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
 ![Cost Badge](https://img.shields.io/badge/Cost-VeryCheap-brightgreen.svg)
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
@@ -21,11 +21,17 @@ return Stir-Fry Cabbage
 
 ## Ingredients
 
-A wok, vegetable oil (olive oil x), 1/2 of a large white cabbage, 3 pieces of 50g of slim Scallion (Green onion), 2 pieces of large dried chili pepper, a base sauce, 5 or more cloves of garlic.
+* A large wok
+* Vegetable oil (olive oil x)
+* 1/2 of a large white cabbage
+* 3 pieces of 50g of slim Scallion (Green onion)
+* 2 pieces of large dried chili pepper
+* 5 or more cloves of garlic
+* Soy sauce, oyster sauce and sugar for making a base sauce
 
-* Base sauce needs to be prepared boiled with following ingredients
+- Base sauce needs to be prepared boiled with following ingredients
   * 4:5:1 ratio of Soy sauce, Oyster sauce and sugar.
-  * 5:5 ratio of Soy sauce and sugar for veggie friends.
+  * 1:1 ratio of Soy sauce and sugar for veggie friends.
 
 The bottom line of the dish is _timing_. It is essential to have all ingredients chopped and ready.
 
@@ -36,7 +42,7 @@ The bottom line of the dish is _timing_. It is essential to have all ingredients
 * Chop chili pepper large enough so that people don't eat it accidentally
 * Slice garlic
 
-### Preparation
+### Method
 
 1. Heat the wok and add enough vegetable oil. This is stir-fry dish. Make sure to be generous with oil
 
@@ -48,10 +54,10 @@ The bottom line of the dish is _timing_. It is essential to have all ingredients
 
 5. Add sliced cabbage and stir constantly to prevent it from being burnt
 
-6. Add base sauce based on members' preference
+6. Add base sauce based on members' preference because you don't want to eat alone
 
 7. Once the cabbage is half cooked, give it max fire on stove and stir it until done.
-   _This step is important because if cabbage stays on medium low until fully cooked, it gets too mushy and loses it's favor of stir-fry dish._
+   _This step is important because if cabbage stays on medium low until fully cooked, it gets too mushy and loses it's flavor of stir-fry dish._
 
 ### Optional
 

@@ -22,6 +22,8 @@ You know what this is for.
 
 [Fatoush](./recipes/salad/Fatoush.md)
 
+[Stir-Fry Cabbage](./recipes/salad/stir-fry-cabbage.md)
+
 ## Sides
 
 ## Desserts
