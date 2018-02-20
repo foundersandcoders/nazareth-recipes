@@ -31,9 +31,11 @@ return Stir-Fry Cabbage
 
 - Base sauce needs to be prepared boiled with following ingredients
   * 4:5:1 ratio of Soy sauce, Oyster sauce and sugar.
-  * 1:1 ratio of Soy sauce and sugar for veggie friends.
+    This would be 1 table spoon of soy sauce, a bit more than 1 table spoon of Oyster sauce and 1 tea spoon of sugar. 
 
-The bottom line of the dish is _timing_. It is essential to have all ingredients chopped and ready.
+
+  * 1:1 ratio of Soy sauce and sugar for veggie friends.
+    For the vegetarian version, replace Oyster sauce with extra soy sauce and sugar because you will lose the sweetness of Oyster sauce.
 
 ### Ingredient preparation
 
