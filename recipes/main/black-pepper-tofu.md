@@ -2,7 +2,7 @@
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-60%25-orange.svg)
 ![Speed Badge](https://img.shields.io/badge/Speed-1.5hr-orange.svg)
 ![Reception Badge](https://img.shields.io/badge/Reception-Positive-green.svg)
-![Cost Badge](https://img.shields.io/badge/Cost-Average-orange.svg)
+![Cost Badge](https://img.shields.io/badge/Cost-Average-yellow.svg)
 ![Vegetarian Friendly Badge](https://img.shields.io/badge/Vegetarian-True-brightgreen.svg)
 ![Vegan Friendly Badge](https://img.shields.io/badge/Vegan-True-brightgreen.svg)
 
@@ -12,13 +12,12 @@
 
 **Author of Recipe**: [Yotam Ottolenghi](https://www.ottolenghi.co.uk/black-pepper-tofu-a-shop)
 
-This tasty tofu recipe goes well with rice or noodles. Side dishes are a good idea such as some roasted red peppers or mushrooms.
+This tasty tofu recipe goes well with rice or noodles. Side dishes are a good idea, such as some roasted red peppers or mushrooms.
 
 
 
 ## Ingredients
 
-### For the beans
 + firm tofu (four packs)
 + corn flour
 + corn oil
@@ -45,7 +44,7 @@ This tasty tofu recipe goes well with rice or noodles. Side dishes are a good id
 + Finely chop the onion, garlic, chilli and ginger
 + Fry in some butter and corn oil
 + Once soft and shiney add the soy sauce, ground peppercorns and sugar, mix well and cook for 5 minutes
-+ Add the tofu and warm through ensuring all the tofu is full coated
++ Add the tofu and warm through ensuring all the tofu is fully coated
 + Sprinkle over the roughly chopped spring onions
 + Serve with rice or noodles
 
